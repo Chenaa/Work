@@ -70,3 +70,47 @@
 
 ```
 
+
+# Занятие 3: GitHub I Инфраструктура
+
+
+## Задание Light 
+```
+    • Создать несколько Issues
+    • Создать страницы Wiki
+    • Добавить правило  для блокировки ветки main
+
+
+Ответ скриншот по имени:
+	1.settings develop Screenshot 2024-09-17 20:36:21_7.png;
+	2.settings develop Screenshot 2024-09-17 20:36:21_11_.png;
+
+```
+
+
+## Задание  Pro
+
+```
+    • Создать правила для запрета слияний ветки main
+    • Создать правила для одобрения слияния в ветку develop
+    • Создать несколько Issues
+    • С каждой Issues поработать 
+в отдельной ветке
+    • Смержить изменения в ветку develop
+
+Ответ скриншот по имени:
+	1.settings develop Screenshot 2024-09-17 20:36:21_8.png;
+	2.settings develop Screenshot 2024-09-17 20:36:21_8_1.png;
+	3.settings develop Screenshot 2024-09-17 20:36:21_2.png;
+	4.settings develop Screenshot 2024-09-17 20:36:21_10_.png;
+	5.settings develop Screenshot 2024-09-17 20:36:21_11_.png;
+	6.settings develop Screenshot 2024-09-17 20:36:21.png;
+	7.settings develop Screenshot 2024-09-17 20:36:21_3.png;
+	8.settings develop Screenshot 2024-09-17 20:36:21_4.png;
+	9.settings develop Screenshot 2024-09-17 20:36:21_5.png;
+	10.settings develop Screenshot 2024-09-17 20:36:21_6.png;
+	11.settings develop Screenshot 2024-09-17 20:36:21_9.png.
+
+```
+
+
