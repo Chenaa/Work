@@ -154,7 +154,7 @@
 Ответ скриншот по имени:
 	1.Screenshot 2024-09-18 20:04:13_finall.png;
 	2.Screenshot 2024-09-18 20:07:44_final.png;
-	3. [Screenshot 2024-09-18 20:28:11_release_v1.png] (https://github.com/Chenaa/Work/blob/master/Screenshot%202024-09-18%2020%3A28%3A11_release_v1.png);
+	3.Screenshot 2024-09-18 20:28:11_release_v1.png; 
 	4.Screenshot 2024-09-18 20:08:42_finall.png;
 	5.Screenshot 2024-09-18 20:10:13_final.png;
 	6.Screenshot 2024-09-18 21:19:00_develop_br.png.
